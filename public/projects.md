@@ -1,10 +1,10 @@
-### Bioinformatics,computational biology and data science
+### Bioinformatics, computational biology and data science
 I am currently self-studying computational biology,
 medical imagery, data-science and general bioinformatics.
 
 projects:
-- [Transcriptomics analysis of Idiopathic Pulmonary Fibrosis](1_gene_expression.html)
-- [Data analysis and classification models comparison on a heart disease dataset](heart_disease.html)
+- [Transcriptomics analysis of Idiopathic Pulmonary Fibrosis](notebooks/1_gene_expression.html)
+- [Data analysis and classification models comparison on a heart disease dataset](notebooks/heart_disease.html)
 
 ### Game development
 I am working part time on this Shoot'em Up video game. It is inspired by Death Smiles and has an unique mechanic which
