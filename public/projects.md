@@ -6,6 +6,10 @@ projects:
 - [Transcriptomics analysis of Idiopathic Pulmonary Fibrosis](notebooks/1_gene_expression.html)
 - [Data analysis and classification models comparison on a heart disease dataset](notebooks/heart_disease.html)
 
+### AI, machine learning and computer vision
+I also learn openCV and pytorch on my spare time with little projects like these:
+- [Skin cancer image classifier](https://github.com/ken-soares/melanoma_model)
+
 ### Web development
 I made this website using mainly markdown parsing and AlpineJS, I learned these technical skills while working on multiple projects
 like CRUD type apps for the student association of my school, my own [static website generator](https://github.com/ken-soares/pyssgen)
