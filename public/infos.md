@@ -4,12 +4,17 @@
 
 ### Education
 
-I am currently in my third year at Université de Technologie de Belfort-Montbéliard studying computer science. I did participate in an Erasmus program last semester in Poland over at AGH University of Kraków and learned a lot about Polish culture but also about statistics and auditing as well as risk management.
+I am currently in my third year of computer-science at Université de Technologie de Belfort-Montbéliard (UTBM).
+I am interested in data-science, AI, computer vision and often also do other programming-related projects.
+Last semester, I studied abroad at AGH University of Kraków in Poland and learned a lot about Polish
+culture, work and studying environment and also thanks to my courses, I learned about auditing
+and risk management in critical infrastructures.
 
 ### My Interest in technology
 
-I started to learn programming in 2017 with simple Pygame projects as well as making my own website. Nowadays, as a hobby I picked up gamedev with Raylib and Godot. Outside of these hobby projects I do lots of self-learning especially regarding Data, and I am also trying to learn OpenCV to maybe try and work with medical imagery. Programming on Unix-based environments also thought me a lot about Linux as a whole and it means that I can be quite proefficient on servers, the student's association website project helped a lot on getting familiar with server infrastructures for python web projects.
-
-
-## Hobbies
-As for my hobbies I do a bit of music production and djing. I like card games like Magic the Gathering, game development and sports.
+I started to learn programming in 2017 with simple Pygame projects as well as making my own website.
+Nowadays, as a hobby I picked up gamedev with Raylib and Godot.
+Outside of these hobby projects I do lots of self-learning especially regarding Data and I am also learning OpenCV to work with with medical images.
+Working on Unix-based environments also thought me a lot about deployment technologies and development environments as a whole.
+I learned a lot about server configuration, deployment of web projects and web development during my time
+as the IT Manager at UTBM's student association.
